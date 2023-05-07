@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "This is a portfolio created using React. It is a single page application that uses React components to render the page. The page is broken down into components such as Header, Footer, About, Portfolio, and Contact. The page is styled using Bootstrap and CSS. The page is responsive and will adjust to different screen sizes. The page is deployed using GitHub Pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickmc19/React-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickmc19/React-Portfolio/issues"
+  },
+  "homepage": "https://github.com/patrickmc19/React-Portfolio#readme"
+}
