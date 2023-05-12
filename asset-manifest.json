@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.c2cab247.css",
+    "main.js": "/React-Portfolio/static/js/main.43402043.js",
+    "static/media/weather-app.jpg": "/React-Portfolio/static/media/weather-app.de1793d5f1eba87110e1.jpg",
+    "static/media/note-taker.jpg": "/React-Portfolio/static/media/note-taker.72c2ee8e5a753fe691f6.jpg",
+    "static/media/tech-blog.jpg": "/React-Portfolio/static/media/tech-blog.d7703c46e62367184257.jpg",
+    "static/media/work-day-scheduler.jpg": "/React-Portfolio/static/media/work-day-scheduler.33fa0a6d278f4d52da34.jpg",
+    "static/media/Patrick McKnight Resume.pdf": "/React-Portfolio/static/media/Patrick McKnight Resume.7742261f52d8662da362.pdf",
+    "static/media/Musical_Chairs_Logo.png": "/React-Portfolio/static/media/Musical_Chairs_Logo.d1c8d66c8e91fd13779f.png",
+    "static/media/password-generator.jpg": "/React-Portfolio/static/media/password-generator.e1807e906765c5e6f5d7.jpg",
+    "static/media/sherpa.jpg": "/React-Portfolio/static/media/sherpa.3e200a049c13014243d4.jpg",
+    "static/media/profile-img.jpg": "/React-Portfolio/static/media/profile-img.71113763168d699895f8.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.c2cab247.css.map": "/React-Portfolio/static/css/main.c2cab247.css.map",
+    "main.43402043.js.map": "/React-Portfolio/static/js/main.43402043.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.43402043.js"
+  ]
+}
