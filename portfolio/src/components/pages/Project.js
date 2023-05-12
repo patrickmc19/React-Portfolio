@@ -9,22 +9,8 @@ function Project(props) {
   const name = Project.name;
   const description = Project.description;
   const image = Project.image;
-  const tools = Project.tools;
   const github = Project.github;
   const deployed = Project.deployed;
-
-  // this function parses the array and returns a list of tool
-  function parseTools(toolsArray) {
-    let toolsList = "";
-    for (let i = 0; i < toolsArray.length; i++) {
-      if (i === toolsArray.length - 1) {
-        toolsList += toolsArray[i];
-      } else {
-        toolsList += toolsArray[i] + ", ";
-      }
-    }
-    return toolsList;
-  }
 
 // this function returns the card with the information from the project
   return (
@@ -38,9 +24,6 @@ function Project(props) {
         <Card.Body>
           <Card.Title className="card-title">{name}</Card.Title>
           <Card.Text className="card-text">{description}</Card.Text>
-          <Card.Text className="card-text">
-            Tools: {parseTools(tools)}
-          </Card.Text>
           <Card.Link href={github} target="_blank" className="card-link">
             {name} Github
           </Card.Link>

@@ -10,6 +10,7 @@ export default function Resume() {
         <a href={require("../../assets/files/Patrick McKnight Resume.pdf")} download>
           Click here to download my resume.
         </a>
+        <br></br>
       </div>
       <div>
         <h3>Front-end Proficiencies</h3>
