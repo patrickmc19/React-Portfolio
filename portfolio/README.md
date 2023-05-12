@@ -42,6 +42,16 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles.
 ```
 
+## Deployed Link
+
+[React Portfolio](https://patrickmc19.github.io/React-Portfolio/)
+
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+![React Portfolio](./src/assets/images/deployed-app.png)
+
 ## Table of Contents
 
 * [Installation](#installation)
