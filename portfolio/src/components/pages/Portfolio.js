@@ -23,6 +23,28 @@ export default function Portfolio() {
       deployed: "https://musical-chairs.herokuapp.com/login",
     },
     {
+    	name: 'Fit-n-Run',
+    	description:
+    		'A full stack exercise application design to help you quickly track your workouts and find workouts that target specific muscle groups.',
+    	image: 'fitnesslogo.png',
+    	technologies: [
+        'HTML/CSS',
+        'JavaScript',
+        'MongoDB',
+        'Express.js',
+        'React',
+        'Node.js',
+        'Heroku',
+        'API Ninjas Exercise API',
+        'Google Fonts',
+        'Bootstrap',
+        'React-Bootstrap',
+        'React-Router-Dom',
+      ],
+    	github: 'https://github.com/TheRealGeneParmesan/Fit-N-Run',
+    	deployed: 'https://fit-n-run.herokuapp.com/',
+    },
+    {
       name: "Sherpa",
       description:
         "This is your personal travel app - check the weather of your destination, a map of the surrounding area with things to do, and keep track of your itinerary all in one place.",
@@ -41,25 +63,6 @@ export default function Portfolio() {
       github: "https://github.com/patrickmc19/sherpa",
       deployed: "https://patrickmc19.github.io/sherpa/",
     },
-	// project not yet completed, will add back in once complete
-    // {
-    // 	name: 'Tech Blog',
-    // 	description:
-    // 		'A full stack social media app for those passionate about all things tech.',
-    // 	image: 'tech-blog.jpg',
-    // 	technologies: [
-    //     'HTML/CSS',
-    //     'JavaScript',
-    //     'Node.js',
-    //     'Express.js',
-    //     'MySQL',
-    //     'Sequelize',
-    //     'Handlebars.js',
-    //     'Heroku',
-    //   ],
-    // 	github: 'https://github.com/patrickmc19/MVC_Tech_Blog',
-    // 	deployed: '',
-    // },
     {
       name: "Work Day Scheduler",
       description:
